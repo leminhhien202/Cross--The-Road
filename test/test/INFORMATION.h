@@ -1,0 +1,9 @@
+#pragma once
+#include "dohoa.h"
+void in4();
+void win();
+void lose();
+void dead();
+void WELCOME();
+void EXIT();
+void law();
